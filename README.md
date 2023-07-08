@@ -1,5 +1,5 @@
 VIEW LIVE CODE
-https://domrouter.netlify.app
+https://reactjsprtfolio.netlify.app/
 
 # Personal Portfolio Website in React
 
